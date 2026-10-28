@@ -61,3 +61,9 @@ Turkish version: https://www.songurmehmet.com/simulatorler/mikroekonomi-simulato
 Mehmet Songur, Department of Economics, Dicle University.
 
 Website: [songurmehmet.com](https://songurmehmet.com) · X: [@mehmetsongur_](https://x.com/mehmetsongur_)
+
+## License
+
+© 2026 Mehmet Songur. The Microeconomics Simulator: Consumer Theory and the materials in this repository are licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+You may share the simulator and link to it in teaching, with attribution to the author. Commercial use and modified versions are not permitted.
