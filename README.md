@@ -58,7 +58,14 @@ Turkish version: https://www.songurmehmet.com/simulatorler/mikroekonomi-simulato
 
 ## Author
 
-Mehmet Songur, Department of Economics, Dicle University.
+<img align="left" src="https://github.com/mehmetsongur.png?size=120" width="96" alt="Mehmet Songur">
+
+**Prof. Dr. Mehmet Songur**<br>
+Department of Economics, Faculty of Economics and Administrative Sciences<br>
+Dicle University · Diyarbakır, Türkiye<br>
+Research: macroeconomics, finance, energy economics
+
+<br clear="left">
 
 ### Academic Profiles
 
