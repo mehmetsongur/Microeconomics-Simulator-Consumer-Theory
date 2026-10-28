@@ -6,6 +6,11 @@ Interactive teaching simulator for **Module 1: Consumer Theory**. As a price cha
 
 Turkish version: https://www.songurmehmet.com/simulatorler/mikroekonomi-simulatoru-tuketici-teorisi.html
 
+## Videos
+
+- English: https://youtu.be/VuilsDHG3rc
+- Turkish: https://youtu.be/zG1maoSs7Cg
+
 ## What it covers
 
 20 lessons that run from utility to preferences, from preferences to demand, and on to welfare. Every lesson follows the same path: concepts, a worked example, interactive exploration, derivation, exercises and a summary.
