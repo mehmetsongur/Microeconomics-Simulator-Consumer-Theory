@@ -1,60 +1,24 @@
-# Microeconomics Simulator: Consumer Theory
+# Microeconomics Simulator
 
-Interactive teaching simulator for **Module 1: Consumer Theory**. As a price changes, the consumer's best bundle shifts, and the trace of that shift is the demand curve. The lessons let you carry out derivations like this one step by step, with your own hands.
+Interactive teaching simulators for microeconomics, built for courses at Dicle University. Each module has lessons that carry out derivations step by step, with your own hands: concepts, a worked example, interactive exploration, derivation, exercises and a summary. Every lesson offers a quick path for brief use in class.
 
-**Live simulator:** https://www.songurmehmet.com/simulatorler/microeconomics-simulator-consumer-theory.html
+Each module is available in English and Turkish.
 
-Turkish version: https://www.songurmehmet.com/simulatorler/mikroekonomi-simulatoru-tuketici-teorisi.html
+## Modules
 
-## Videos
+| Module | Topic | Lessons | Simulator | Video |
+|:--:|---|:--:|---|---|
+| 0 | [Introduction to Economics](module-0-introduction-to-economics/README.md) | 13 | [EN](https://www.songurmehmet.com/simulatorler/microeconomics-simulator-introduction-to-economics.html) · [TR](https://www.songurmehmet.com/simulatorler/mikroekonomi-simulatoru-iktisada-giris.html) | [EN](https://youtu.be/KjJ9SD8mJ54) · [TR](https://youtu.be/s0qcuxz5Vd8) |
+| 1 | [Consumer Theory](module-1-consumer-theory/README.md) | 20 | [EN](https://www.songurmehmet.com/simulatorler/microeconomics-simulator-consumer-theory.html) · [TR](https://www.songurmehmet.com/simulatorler/mikroekonomi-simulatoru-tuketici-teorisi.html) | [EN](https://youtu.be/VuilsDHG3rc) · [TR](https://youtu.be/zG1maoSs7Cg) |
+| 2 | [Producer Theory](module-2-producer-theory/README.md) | 20 | [EN](https://www.songurmehmet.com/simulatorler/microeconomics-simulator-producer-theory.html) · [TR](https://www.songurmehmet.com/simulatorler/mikroekonomi-simulatoru-uretici-teorisi.html) | [EN](https://youtu.be/siR_MmSPj-A) · [TR](https://youtu.be/cUqTCpXav9M) |
 
-- English: https://youtu.be/VuilsDHG3rc
-- Turkish: https://youtu.be/zG1maoSs7Cg
+## How the modules fit together
 
-## What it covers
+- **Module 0** builds the basic way economists think and the supply and demand model, and is a starting point for the other two.
+- **Module 1** follows the consumer: from utility and preferences to demand and welfare.
+- **Module 2** follows the firm: from production and costs to profit maximization and supply.
 
-20 lessons that run from utility to preferences, from preferences to demand, and on to welfare. Every lesson follows the same path: concepts, a worked example, interactive exploration, derivation, exercises and a summary.
-
-- **Quick path:** each lesson offers a short route at the top for brief use in class.
-- **Graduate layer:** a switch adds formulas and further results to the same graphs.
-- **Narrated introduction** and user guide in English.
-
-## Lessons
-
-### Part A. The cardinal approach
-
-1. The concept of utility
-2. Total and marginal utility
-3. The equimarginal principle
-4. From cardinal utility to the demand curve
-
-### Part B. Ordinal foundations
-
-5. Axioms of preference
-6. Discovering the indifference curve
-7. Properties of indifference curves and the MRS
-
-### Part C. Choice and demand
-
-8. The budget constraint
-9. Types of utility functions
-10. Optimal choice
-11. Income changes and the Engel curve
-12. Price changes and the demand curve
-13. Elasticities of demand
-14. Substitution and income effects
-
-### Part D. Applications
-
-15. Welfare measures
-16. Policy applications
-
-### Graduate supplementary lessons
-
-17. Duality
-18. Roy, Shephard and Slutsky
-19. Elasticities and aggregation conditions
-20. Revealed preference
+Modules 1 and 2 also have a graduate layer: a switch adds formulas and further results to the same graphs, and graduate supplementary lessons cover duality and related topics.
 
 ## Author
 
@@ -81,6 +45,6 @@ Areas of specialisation: economics, macroeconomics, econometrics, applied AI
 
 ## License
 
-© 2026 Mehmet Songur. The Microeconomics Simulator: Consumer Theory and the materials in this repository are licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+© 2026 Mehmet Songur. The Microeconomics Simulator (Modules 0, 1 and 2) and the materials in this repository are licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-You may share the simulator and link to it in teaching, with attribution to the author. Commercial use and modified versions are not permitted.
+You may share the simulators and link to them in teaching, with attribution to the author. Commercial use and modified versions are not permitted.
