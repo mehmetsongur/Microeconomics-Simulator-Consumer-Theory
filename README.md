@@ -1,5 +1,7 @@
 # Microeconomics Simulator
 
+![Microeconomics Simulator: Introduction to Economics, Consumer Theory and Producer Theory](assets/social-preview.png)
+
 Interactive teaching simulators for microeconomics, built for courses at Dicle University. Each module has lessons that carry out derivations step by step, with your own hands: concepts, a worked example, interactive exploration, derivation, exercises and a summary. Every lesson offers a quick path for brief use in class.
 
 Each module is available in English and Turkish.
